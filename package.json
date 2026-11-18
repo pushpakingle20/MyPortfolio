@@ -1,0 +1,23 @@
+{
+  "name": "pushpak-ingle-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@unocss/reset": "^0.65.3",
+    "lucide-react": "^0.468.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@unocss/preset-uno": "^0.65.3",
+    "@vitejs/plugin-react": "^4.3.4",
+    "unocss": "^0.65.3",
+    "vite": "^6.0.5"
+  }
+}
